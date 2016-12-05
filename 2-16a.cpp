@@ -6,6 +6,10 @@ int main()
 	b=6;
 	
 	c=a%b;
+	
+	
+	
+	
 	printf("c=%d",c);
 	return 0;
 }
